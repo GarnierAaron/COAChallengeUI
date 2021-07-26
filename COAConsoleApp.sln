@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COAConsoleApp", "COAConsoleApp\COAConsoleApp.csproj", "{65D9D2A4-C4CD-4D1E-A573-B8C543BFF7A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D9D2A4-C4CD-4D1E-A573-B8C543BFF7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D9D2A4-C4CD-4D1E-A573-B8C543BFF7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D9D2A4-C4CD-4D1E-A573-B8C543BFF7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D9D2A4-C4CD-4D1E-A573-B8C543BFF7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D39AB3-D2B0-4A85-B477-C9459A99BF3F}
+	EndGlobalSection
+EndGlobal
